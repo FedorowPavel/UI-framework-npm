@@ -1,0 +1,10 @@
+.my-input {
+    padding: 10px 5px;
+    border: 4px solid teal;
+}
+
+
+.big-input {
+    font-size: 30px;
+    padding: 20px;
+}
